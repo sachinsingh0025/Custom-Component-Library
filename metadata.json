@@ -1,0 +1,5 @@
+{
+  "name": "React Component Library Showcase",
+  "description": "A fully functional Task Manager web application built with a reusable and customizable React component library. This project demonstrates best practices in component design, accessibility, and UI/UX, serving as a Storybook-style showcase for the custom components.",
+  "requestFramePermissions": []
+}
